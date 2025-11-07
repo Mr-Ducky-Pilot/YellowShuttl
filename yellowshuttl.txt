@@ -1,0 +1,20 @@
+YellowShuttl
+YellowShuttl is a fleet management and live tracking proprietary software designed specifically for educational institutes. It offers a comprehensive solution to manage and optimize the institute's bus fleet, providing real-time tracking, ride statistics, fuel consumption data, and driver performance metrics.
+Key Features
+•	Real-time fleet tracking: Educational institutes can monitor their bus fleet in real-time, ensuring efficient operations and quick response to any issues.
+•	Ride statistics: YellowShuttl provides detailed ride statistics, allowing institutes to analyze bus usage, optimize routes, and make data-driven decisions.
+•	Fuel and driver analytics: The software offers insights into fuel consumption and driver performance, helping institutes reduce costs and improve safety.
+•	Student and faculty benefits: YellowShuttl enables students and faculty to track institute buses in real-time, reducing waiting times, providing alerts for delays, and suggesting alternative routes and buses.
+•	Parental peace of mind: Parents can track the location of the bus their child takes, giving them peace of mind and ensuring the safety of their children.
+Impact
+By encouraging students to use the bus facility instead of personal vehicles, YellowShuttl promotes environmental consciousness and reduces the risk of accidents. It also helps educational institutes optimize their transportation services, reduce costs, and improve overall efficiency.
+
+Motivation:
+Educational institutions face significant challenges in managing and monitoring their bus fleets efficiently while ensuring student safety and convenience. Traditional tracking methods often involve substantial financial investments, making them inaccessible to many institutions. Recognizing these challenges, the Live Tracking and Fleet Management System aims to provide a cost-effective, user-friendly, and technologically advanced solution that enhances transportation management, student experience, and overall operational efficiency
+Objectives:
+Develop a cost-effective and efficient live bus tracking and Fleet Management solution for educational institutions by leveraging smartphone technology.
+Enhance student safety and convenience through real-time bus location updates, routes information, Bus arrival ETA’s, alerts, and timely stop notifications.
+Streamline bus operations and improve overall transportation management efficiency.
+Provide a user-friendly interface for college bus admin, bus drivers and students to interact with the system seamlessly.
+Provide a central control system for Bus Admin to monitor and keep track of all the college buses and manage the fleet with efficiency and ease.
+
